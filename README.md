@@ -1,6 +1,6 @@
 <!-- Git && Mark Down Tutorial -->
 
-# App using git commands 
+# Application using git commands 
 
 <!-- Mark down tutorial starts here -->
 
