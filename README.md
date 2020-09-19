@@ -28,12 +28,12 @@
 __This text__ is strong
 
 <!-- Strikethrough -->
-~~This text~~  is strikethrough
+~~This text~~  is strikethrough‹
 
 <!-- Horizontal Rule -->
 
---- <!-- hree Hyphens -->
-___ <--!--Three Underscores>
+--- <!-- Three Hyphens -->
+___ <!--Three Underscores-->
 
 <!-- Blockquotes -->
 

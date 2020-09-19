@@ -1,0 +1,17 @@
+Basic Git Commands
+
+•	$ git init 		// Initialize Local Git Repository 
+•	$ git add <file> 	// Add File(s) To Index
+•	$ git status 		// Check Status of Working Tree
+•	$ git commit 		// Commit Changes in Index
+•	$ git push 		// Push to remote repository 
+•	$ git pull 		// Pull latest version from remote repository 
+•	$ git cl https://github.com/LenTheDev/myAppsSampleone 		// Clones Repository into a new directory 
+•	$ git commit -m 'comment' //comments on commit file without opening the text editor 
+•	$ git add .		//Commits all files within the current directory 
+•	$ git checkout ‘name of branch’ //changes to specified branch to work on 
+•	$ git branch <name>	// used to create a branch and name it 
+•	$ git merge ‘name of branch to merge with master’ //merges working branch with master 
+•	$ git remote 		//remotely accesses GitHub repository 
+•	$ git clone 		//copies a current repository 
+
