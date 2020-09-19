@@ -1,5 +1,3 @@
-Contact: Lennart Lewis lhl7@gmail.com
-
 <!-- Git && Mark Down Tutorial -->
 
 # App using git commands 
