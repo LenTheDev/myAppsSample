@@ -1,4 +1,4 @@
-Lennart Lewis lhl7@gmail.com
+Contact: Lennart Lewis lhl7@gmail.com
 
 <!-- Git && Mark Down Tutorial -->
 
